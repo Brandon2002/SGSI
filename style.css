@@ -1,0 +1,46 @@
+.body{
+    background-color: rgb(218, 183, 133);
+    height:665px;
+    background-image: url("https://dbdzm869oupei.cloudfront.net/img/sticker/preview/17575.png");
+    background-size: 90rem;
+    background-attachment: fixed;
+}
+
+.body2{
+    background-color: rgb(218, 183, 133);
+    height:665px;
+    background-image: url("https://i.pinimg.com/originals/44/5d/7b/445d7b124fb7cf343d0298cba1cea8f9.png");
+    background-size: 20rem;
+    background-attachment: fixed;
+}
+
+.body3{
+    background-color: rgb(218, 183, 133);
+    height:665px;
+    background-image: url("https://images.vexels.com/media/users/3/239876/isolated/preview/93d40d69f78e5ff19062bd5f0070679f-ingredientes-alimentos-flat-wash-ink-contour-lote-3-0.png");
+    background-size: 20rem;
+    background-attachment: fixed;
+}
+
+.body4{
+    background-color: rgb(218, 183, 133);
+    height:665px;
+    background-image: url("https://www.roll-tickets.com/wp-content/uploads/2019/05/2x2-Background.png");
+    background-size: 60rem;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.table1, .table{
+    background-color: white;
+}
+
+.title, .td{
+    text-align:center;
+}
+
+.title{
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
